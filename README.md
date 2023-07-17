@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” width=“400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h3 align="center">A passionate Computer Engineering Undergrad</h3>
+
 
 
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 - 🌱 I’m currently learning **DSA, AWS, React, Node, Express, MongoDB, Solidity**
 
 - 👯 I’m looking to collaborate on **any passionate project**
@@ -13,7 +14,7 @@
 
 - 💬 Ask me about **anything, I am happy to help :)**
 
-- 📫 How to reach me **nagarwal_be20@thapar.edu**
+- 📫 Drop a mail at **nagarwal_be20@thapar.edu**
 
 
 ## 🌐 Socials:
