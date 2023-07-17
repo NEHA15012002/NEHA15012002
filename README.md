@@ -6,6 +6,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
+
 - 🌱 I’m currently learning **DSA, AWS, React, Node, Express, MongoDB, Solidity**
 
 - 👯 I’m looking to collaborate on **any passionate project**
