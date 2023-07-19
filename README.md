@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate Computer Engineering Undergrad</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%256FF781&center=true&lines=Nice+to+e-meet+you%F0%9F%98%9C;I+am+an+aspiring+software+engineer%F0%9F%92%BB;Scroll+till+the+end%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
